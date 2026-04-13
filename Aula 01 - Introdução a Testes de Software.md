@@ -82,4 +82,5 @@ Na prática, existem vários tipos de testes. Vamos só dar uma passada rápida 
 📌 Imagine que você está testando um **aplicativo de delivery** 📱🍕.
 
 1. Crie **um caso de teste simples** para verificar o cadastro de usuário.
-2. Defina **o resultado esperado**.
+2. Crie **um caso de teste simples** para verificar o movimento de Entrega.
+3. Defina **o resultado esperado**.
